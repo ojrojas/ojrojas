@@ -3,7 +3,7 @@
 ```csharp
 var ojrojas = new { 
   Name = "Oscar Rojas",
-  Description = "Soy desarrollador de software apasionado por la creación y estructuración de código"
+  Description = "Soy un desarrollador de software apasionado por la creación y estructuración de código"
   Code = [ "C#", "TypeScript", "Javascript", "Java", "Html5" ],
   Tools = ["VSCode" , "Visual Studio", "Git", "Node", "Docker"],
   Frameworks = [ ".Net Standard",".NetCore", "Angular", "Redux", "AspNetCore", "Sprint Boot"],
