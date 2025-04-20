@@ -21,7 +21,7 @@
 `MS SQL Server`, `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`, `(LangChain)`
 
 ### Frameworks y Plataformas
-`.NET`, `ASP.NET Core`, `Angular`, `React`, `React Native`, `IONIC`, `Redux`, `Spring Boot`, `Blazor WebAssembly`, `Blazor Server`
+`Aspire`, `.NET`, `ASP.NET Core`, `Angular`, `React`, `React Native`, `IONIC`, `Redux`, `Spring Boot`, `Blazor WebAssembly`, `Blazor Server`
 
 ### Herramientas
 `Visual Studio`, `VS Code`, `Git`, `Docker`, `Azure`, `Azure DevOps`
