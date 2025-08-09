@@ -24,7 +24,7 @@
 `Aspire`, `.NET`, `ASP.NET Core`, `Angular`, `React`, `React Native`, `IONIC`, `Redux`, `Spring Boot`, `Blazor WebAssembly`, `Blazor Server`
 
 ### Herramientas
-`Visual Studio`, `VS Code`, `Git`, `Docker`, `Azure`, `Azure DevOps`
+`Visual Studio`, `Cursor`, `VS Code`, `Git`, `Docker`, `Azure`, `Azure DevOps` ya ahora mi nueva `extensión` para desarrollo con `modelos de IA locales "Orasis IA"`, ya funcional y que sigo mejorandola.
 
 ### Arquitectura
 `Microservicios`, `Contenedores`, `TDD`, `DDD`, `Mobile`,  
@@ -38,8 +38,10 @@
 
 - **Semantic Kernel** para orquestación de habilidades semánticas
 - **Microsoft Copilot Platform (MCP)** para agentes y flujos inteligentes
-- **OpenAI y Azure OpenAI** para generación y comprensión de lenguaje natural
+- **OpenAI, Azure OpenAI, Ollama** para generación y comprensión de lenguaje natural
 - **Indexación semántica**, embeddings y retrieval-based AI
+- **Servers MCP**, para integración de herramientas basadas en procesos empresariales
+- **Refinamiento de modelos (Tuning)**, para la adaptación de modelos IA al enfoque de producto
 
 ### Casos de uso:
 - Agentes inteligentes personalizados
