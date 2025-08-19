@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 
 💻 Más de 10 años de experiencia desarrollando aplicaciones distribuidas, móviles y web.  
-🧠 Enfocado actualmente en **modelos de IA**, **arquitectura para agentes inteligentes** y soluciones basadas en **Semantic Kernel**, **Microsoft Copilot Platform (MCP)** y como tambien en servidores MCP para la creacion de herramientas para super cargar a los modelos IA.  
+🧠 Enfocado actualmente en **modelos de IA**, **arquitectura para agentes inteligentes** y soluciones basadas en **Semantic Kernel**, **Microsoft Copilot Studio, con integracion a (MCP's)** y tambien en servidores MCP para la creacion de herramientas que super carguen a los modelos IA.  
 ⚙️ Trabajo con arquitecturas basadas en **microservicios**, contenedores y servicios desacoplados para garantizar soluciones robustas, escalables y fácilmente mantenibles.
 
 ---
