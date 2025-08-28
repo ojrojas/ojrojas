@@ -1,6 +1,6 @@
 # 👋 Hola, soy Oscar Julian Rojas
 
-🎯 **Desarrollador de software** con enfoque en la creación de soluciones escalables, optimizadas y habilitadas con inteligencia artificial. Apasionado por la estructuración de código limpio, patrones de arquitectura moderna, y la integración de servicios inteligentes que agregan verdadero valor.
+🎯 **Desarrollador de software**, enfocado en crear soluciones escalables y optimizadas, potenciadas con inteligencia artificial. Apasionado por escribir código limpio, aplicar patrones de arquitectura moderna e integrar servicios inteligentes que generen verdadero valor para el negocio.
 
 ---
 
