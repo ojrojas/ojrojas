@@ -1,55 +1,91 @@
-# 👋 Hola, soy Oscar Julian Rojas
+👋 Hola, soy Oscar Julián Rojas
 
-🎯 **Desarrollador de software**, con experiencia en la creación de soluciones escalables y optimizadas, potenciadas con inteligencia artificial. Orientado a la excelencia técnica y a la aplicación de arquitecturas modernas, con un fuerte compromiso en integrar servicios inteligentes que generen valor estratégico y medible para las organizaciones.
+🚀 Desarrollador de Software Senior | Cloud & AI Engineer | Enterprise Systems Builder
 
----
+Especialista en diseñar y construir plataformas empresariales de alto impacto: CRM, sistemas financieros, soluciones bancarias, plataformas comerciales y motores de automatización inteligente.
 
-## 🚀 Sobre mí
+Combino arquitectura cloud moderna, ingeniería de datos e inteligencia artificial aplicada para crear productos robustos, escalables y orientados a resultados reales de negocio.
 
-💻 Más de 10 años de experiencia desarrollando aplicaciones distribuidas, móviles y web.  
-🧠 Enfocado actualmente en **modelos de IA**, **arquitectura para agentes inteligentes** y soluciones basadas en **Semantic Kernel**, **Microsoft Copilot Studio, con integracion a (MCP's)** y tambien en servidores MCP para la creacion de herramientas que super carguen a los modelos IA.  
-⚙️ Trabajo con arquitecturas basadas en **microservicios**, contenedores y servicios desacoplados para garantizar soluciones robustas, escalables y fácilmente mantenibles.
+🧠 Perfil Profesional
 
----
+💼 +10 años creando software crítico para operación empresarial y financiera.
+🏗️ Diseño arquitecturas para sistemas comerciales, bancarios y de ventas en entornos cloud híbridos y multi-región.
+🤖 Especialista en plataformas de agentes IA, Semantic Kernel, MCP Servers y orquestación avanzada de herramientas inteligentes.
+☁️ Experiencia profunda con AWS, Azure y Terraform para infraestructura como código y despliegues automatizados.
+📊 Integración de arquitectura de datos e ingeniería analítica en soluciones productivas.
+⚙️ Enfoque en DDD, TDD, microservicios, event-driven systems y plataformas SaaS multi-tenant.
 
-## 🛠️ Stack Tecnológico
+🏢 Qué Construyo
 
-### Lenguajes
-`C#`, `C++`, `TypeScript`, `JavaScript`, `Java`, `Visual Basic`, `HTML5`, `Python`
+✔ Sistemas CRM y ERP empresariales
+✔ Plataformas financieras y bancarias
+✔ Motores de ventas y facturación
+✔ Infraestructura cloud escalable
+✔ Aplicaciones móviles, escritorio y web
+✔ Sistemas nativos y distribuidos
+✔ Plataformas SaaS multi-tenant
+✔ Pipelines de datos y analítica avanzada
+✔ Productos impulsados por IA
 
-### Bases de Datos
-`MS SQL Server`, `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`, `(LangChain)`
+🛠️ Stack Tecnológico
+🔤 Lenguajes
 
-### Frameworks y Plataformas
-`Aspire`, `.NET`, `ASP.NET Core`, `Angular`, `React`, `React Native`, `IONIC`, `Redux`, `Spring Boot`, `Blazor WebAssembly`, `Blazor Server`
+C#, C++, TypeScript, JavaScript, Python, Java, Visual Basic, HTML5
 
-### Herramientas
-`Visual Studio`, `Cursor`, `VS Code`, `Git`, `Docker`, `Azure`, `Azure DevOps` ya ahora mi nueva `extensión` para desarrollo con `modelos de IA locales "Orasis IA"`, ya funcional y que sigo mejorandola.
+🗄️ Bases de Datos & Data
 
-### Arquitectura
-`Microservicios`, `Contenedores`, `TDD`, `DDD`, `Mobile`,  
-**IA: Arquitectura de agentes**, `Semantic Kernel`, `MCP`
+SQL Server, PostgreSQL, MySQL, MongoDB, SQLite
+Data Warehouses, ETL/ELT, Event Streaming, Vector DBs, Semantic Indexing
 
----
+⚙️ Frameworks & Plataformas
 
-## 🤖 Inteligencia Artificial
+.NET, ASP.NET Core, Aspire, Angular, React, React Native, IONIC
+Spring Boot, Blazor WASM, Blazor Server
 
-🔍 Actualmente enfocado en integrar **IA de manera estructurada y efectiva** en soluciones de negocio, utilizando:
+☁️ Cloud & DevOps
 
-- **Semantic Kernel** para orquestación de habilidades semánticas
-- **Microsoft Copilot Platform (MCP)** para agentes y flujos inteligentes
-- **OpenAI, Azure OpenAI, Ollama** para generación y comprensión de lenguaje natural
-- **Indexación semántica**, embeddings y retrieval-based AI
-- **Servers MCP**, para integración de herramientas basadas en procesos empresariales
-- **Refinamiento de modelos (Tuning)**, para la adaptación de modelos IA al enfoque de producto
+AWS, Azure, Terraform, Docker, Kubernetes, CI/CD, Azure DevOps
+GitHub Actions, Observability, Secrets Management
 
-### Casos de uso:
-- Agentes inteligentes personalizados
-- Automatización de procesos con IA
-- Bots conversacionales avanzados
-- Sistemas de recomendación semánticos
+🏛️ Arquitectura
 
----
+Microservicios, DDD, TDD, CQRS, Event-Driven,
+Clean Architecture, Hexagonal, Multi-Tenant SaaS
 
-> *"El código bien estructurado no solo funciona, habla."*
+🤖 Inteligencia Artificial & Sistemas Autónomos
 
+Trabajo en la creación de plataformas IA empresariales, combinando:
+
+🔹 Semantic Kernel para orquestación cognitiva
+🔹 Microsoft Copilot Studio & MCP Servers
+🔹 Agentes autónomos multi-herramienta
+🔹 OpenAI, Azure OpenAI, Ollama
+🔹 Embeddings y RAG avanzado
+🔹 Model fine-tuning
+🔹 Vector Search
+
+IA gobernada y auditable
+
+🧪 Casos de Uso Reales
+
+🔹 Automatización inteligente de procesos empresariales
+🔹 Agentes financieros y de soporte
+🔹 Motores semánticos para CRM
+🔹 Sistemas de decisión asistidos por IA
+🔹 Análisis predictivo
+🔹 Orquestadores de flujos complejos
+🔹 Integraciones IA + ERP
+
+🧬 Proyectos Destacados
+
+🚧 Orasis IA (85%)— Plataforma local para desarrollo con modelos IA integrados en VS Code
+🚧 OroIdentityServer (100%)- Servidor de Identidad enfocado en el protocolo Auth2.0 OpenIdConnect
+🚧 BlueCRM(90%) - Plataforma para la administracion y seguimiento de leads, propestos y ventas (Privado)
+🚧 OroPayments(100%) - Plataforma de creacion y seguimientos de convenios de pagos comerciales (Privado)
+🧠 MCP Servers para herramientas empresariales
+⚙️ Sistemas SaaS multi-tenant
+📊 Arquitecturas analíticas modernas
+
+💡 Filosofía
+
+"El software de nivel empresarial no se escribe. Se diseña."
